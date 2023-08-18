@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Chronicle Display';
+    src: url('Chronicle-Display-Semibold.eot');
+    src: local('Chronicle-Display-Semibold'),
+        local('Chronicle Display-Semibold'),
+        url('Chronicle-Display-Semibold.ttf') format('truetype'),
+        url('Chronicle-Display-Semibold.eot?#eifix') format('embedded-opentype'),
+        url('Chronicle-Display-Semibold.woff2') format('woff2'),
+        url('Chronicle-Display-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Chronicle Display';
+    src: url('Chronicle-Display-Bold.eot');
+    src: local('Chronicle-Display-Bold'), local('Chronicle Display-Bold'),
+        url('Chronicle-Display-Bold.ttf') format('truetype'),
+        url('Chronicle-Display-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Chronicle-Display-Bold.woff2') format('woff2'),
+        url('Chronicle-Display-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+
